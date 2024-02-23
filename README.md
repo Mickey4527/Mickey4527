@@ -1,4 +1,4 @@
-# Hello World!
+# Hello 👋 I'm Mick!
 - 👋 Hi, I’m Saran Saeeung. I'm from Thailand
 
 
