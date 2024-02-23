@@ -1,4 +1,4 @@
-# Hello 👋 I'm Mick!
+<h1 align="center">Hello 👋 I'm Mick!</h1>
 - 👋 Hi, I’m Saran Saeeung. I'm from Thailand
 
 
